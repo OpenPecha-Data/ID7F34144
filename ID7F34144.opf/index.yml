@@ -1,0 +1,19 @@
+id: 260c7c173bba4184a07c3d93f9404246
+annotation_type: index
+revision: '00001'
+annotations:
+  f709e4f03411424485bb022bf39c2af4:
+    base: 6FB4.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 53
+    - title: Nidāna
+      span:
+        start: 54
+        end: 78748
+    - title: Samantabhadra
+      span:
+        start: 78749
+        end: 89642
